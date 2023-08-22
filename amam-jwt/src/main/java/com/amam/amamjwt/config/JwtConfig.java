@@ -1,6 +1,6 @@
 package com.amam.amamjwt.config;
 
-import com.ssafy.forest.jwt.JwtDecoder;
+import com.amam.amamjwt.jwt.JwtDecoder;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;

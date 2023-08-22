@@ -1,7 +1,7 @@
 package com.amam.amamjwt.exception.dto;
 
+import com.amam.amamjwt.exception.CustomException;
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.ssafy.forest.exception.CustomException;
 import lombok.Getter;
 import lombok.Setter;
 
